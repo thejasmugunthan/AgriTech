@@ -1,0 +1,29 @@
+
+# Data processing
+pandas
+numpy
+
+# Machine learning
+scikit-learn
+
+# Data visualization
+matplotlib
+seaborn
+
+# Model serialization
+joblib
+
+# Prediction API and Swagger UI
+fastapi
+uvicorn
+
+# Testing API requests
+requests
+
+# Testing and code quality
+pytest
+ruff
+
+# Jupyter notebook support
+jupyter
+ipykernel
